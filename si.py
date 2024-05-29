@@ -1,0 +1,1 @@
+armas_fornite=["corredera","granada de impulso","pump","fusil de cazador"]
